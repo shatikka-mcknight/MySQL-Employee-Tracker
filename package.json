@@ -1,0 +1,15 @@
+{
+  "name": "employee_tracker_db-connection",
+  "version": "1.0.0",
+  "description": "MySQL Homework: Employee Tracker",
+  "main": "employeeData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
